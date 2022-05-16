@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Story App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="login">Login</string>
+    <string name="sign_up">Sign up</string>
+    <string name="welcome_to_story_app">Welcome To Story App</string>
+    <string name="sign_up_page">Sign Up Page</string>
+    <string name="login_page">Login Page</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="name">Name</string>
+    <string name="nama">Name</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="upload">Upload</string>
+    <string name="signup">Signup</string>
+    <string name="retry">Coba Lagi</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tab_text_1">List Story</string>
+    <string name="tab_text_2">Map Story</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>
